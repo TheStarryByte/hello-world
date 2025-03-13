@@ -8,3 +8,4 @@ Print ("safa ")
 print ("hi there im here")
 im done with lesson three in python
 doing day one of the course
+week zero is basic and easy
