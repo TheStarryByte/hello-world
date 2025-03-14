@@ -11,3 +11,4 @@ doing day one of the course
 week zero is basic and easy
 new word pixel images binary system 
 scartch week zero worksheet
+im doing rn
