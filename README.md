@@ -15,3 +15,4 @@ im doing rn
 ..................
 i forgot to login
 for twooo days :(
+im in week one
