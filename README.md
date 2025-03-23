@@ -21,3 +21,4 @@ im on next week
 arrays
 still on week two
 its fun tho
+array in c are kinda hard
