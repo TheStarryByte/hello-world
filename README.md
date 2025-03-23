@@ -22,3 +22,4 @@ arrays
 still on week two
 its fun tho
 array in c are kinda hard
+two days more to finish it
