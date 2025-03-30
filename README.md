@@ -25,3 +25,4 @@ array in c are kinda hard
 two days more to finish it
 thats it for now
 week 4 is next
+week 4 memory
