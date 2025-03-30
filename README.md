@@ -26,3 +26,4 @@ two days more to finish it
 thats it for now
 week 4 is next
 week 4 memory
+cs50 is fun so far
