@@ -22,6 +22,7 @@ arrays
 still on week two
 im done with week three
 its fun tho
+im doing week 4 
 array in c are kinda hard
 two days more to finish it
 thats it for now
