@@ -24,6 +24,7 @@ im done with week three
 its fun tho
 im doing week 4 
 array in c are kinda hard
+and im just starting
 two days more to finish it
 thats it for now
 week 4 is next
