@@ -20,6 +20,7 @@ c
 im on next week
 arrays
 still on week two
+im done with week three
 its fun tho
 array in c are kinda hard
 two days more to finish it
