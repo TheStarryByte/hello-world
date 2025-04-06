@@ -31,3 +31,4 @@ week 4 is next
 week 4 memory
 cs50 is fun so far
 i think i will do a ai project
+in my cs50 final project 
