@@ -35,3 +35,4 @@ in my cs50 final project
 im trying
 i just finished memory week4
 literally on last dayy
+and i think i have to double my learning time
