@@ -34,3 +34,4 @@ i think i will do a ai project
 in my cs50 final project 
 im trying
 i just finished memory week4
+literally on last dayy
