@@ -36,3 +36,4 @@ im trying
 i just finished memory week4
 literally on last dayy
 and i think i have to double my learning time
+im done with the first proplem of week 3
