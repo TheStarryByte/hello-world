@@ -39,3 +39,4 @@ and i think i have to double my learning time
 im done with the first proplem of week 3
 i have to finish week 5 lecture by friday
 its easy so far
+i have been late
