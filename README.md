@@ -49,3 +49,4 @@ i have half a lecture
 and one more to go
 im doneeeee
 ilove cs50
+it was so fun
