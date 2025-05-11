@@ -57,3 +57,4 @@ and then finish google skill
 theres more
 #learn more python
 code
+i have 19 days
