@@ -54,3 +54,4 @@ i think i will start doing anotger course
 cs50 AI
 i shiuld do one ai project 
 and then finish google skill
+theres more
