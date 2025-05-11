@@ -56,3 +56,4 @@ i shiuld do one ai project
 and then finish google skill
 theres more
 #learn more python
+code
