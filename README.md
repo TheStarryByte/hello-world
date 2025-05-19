@@ -70,3 +70,4 @@ I'm learning more day by day
 it's the small steps that matters
 I'm currently learning more about c
 I don't think programming is hard
+and i love what I'm learning 
