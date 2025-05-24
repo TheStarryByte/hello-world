@@ -75,3 +75,4 @@ i will be making my new project soon
 i need to finish forward program too
 gonna start cs50 ai today
 finish another skill build lesson in google..
+about
