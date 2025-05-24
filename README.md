@@ -73,3 +73,4 @@ I don't think programming is hard
 and i love what I'm learning 
 i will be making my new project soon
 i need to finish forward program too
+gonna start cs50 ai tiday
