@@ -18,7 +18,7 @@ for twooo days :(
 im in week one
 c.
 im on next week
-arrays
+arrays.
 still on week two
 im done with week three
 its fun tho
