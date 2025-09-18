@@ -76,7 +76,7 @@ i need to finish forward program too
 gonna start cs50 ai today
 finish another skill build lesson in google....
 bought new laptop
-about responsible ai...
+about responsible ai..
 on this journey 
 againalhamdullah
 ai agent
