@@ -81,3 +81,4 @@ on this journey
 againalhamdullah
 ai agent
 i started ai python course
+im currently studying for sat too
