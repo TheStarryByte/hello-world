@@ -82,3 +82,4 @@ againalhamdullah
 ai agent
 i started ai python course
 im currently studying for sat too
+on my day 34 of french lesson and i love it
