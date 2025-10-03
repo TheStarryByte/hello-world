@@ -86,3 +86,6 @@ on my day 34 of french lesson and i love it
 i wiil create my first real repo
 lets hope it works
 its data analysis
+rn im focusing on sat and i finised python ai course 
+next im learingn data analysis its because befors anything i need to learn hw to work with data because data from from are not organized i need to learn how to orgnaize it and sort and all of these things 
+ai ml is all about data and working with it 
