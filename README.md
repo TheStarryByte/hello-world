@@ -90,3 +90,4 @@ rn im focusing on sat and i finised python ai course
 next im learingn data analysis its because befors anything i need to learn hw to work with data because data from from world are not organized i need to learn how to orgnaize it and sort and all of these things 
 ai ml is all about data and working with it 
 okay so im learning sat algebra aside now 
+i will be watching videos from two chanels and do khan academy for now
