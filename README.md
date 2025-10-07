@@ -14,7 +14,7 @@ scartch week zero worksheet.
 im doing rn
 ...................
 i forgot to login
-for twooo days :(
+for twooo days :(.
 im in week one
 c.
 im on next week
