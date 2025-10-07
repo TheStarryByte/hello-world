@@ -92,3 +92,6 @@ ai ml is all about data and working with it
 okay so im learning sat algebra aside now 
 i will be watching videos from two chanels and do khan academy for now
 leaening more about data analysis and learning more sat i think its easy  and it will be easy i just need to focus
+i worked in t hree codes today and thats good and new
+im still learning french i found this new sonf and its beatiful
+im also watching sat vid and theyre so far easy 
