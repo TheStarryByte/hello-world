@@ -95,3 +95,4 @@ leaening more about data analysis and learning more sat i think its easy  and it
 i worked in t hree codes today and thats good and new
 im still learning french i found this new sonf and its beatiful
 im also watching sat vid and theyre so far easy 
+im almost done with data sceicse video
