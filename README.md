@@ -96,3 +96,5 @@ i worked in t hree codes today and thats good and new
 im still learning french i found this new sonf and its beatiful
 im also watching sat vid and theyre so far easy 
 im almost done with data sceicse video
+
+i finised te data couse and now im practicing more python and laeraning ml more and studying sat math , french and math
