@@ -98,3 +98,5 @@ im also watching sat vid and theyre so far easy
 im almost done with data sceicse video
 
 i finised te data couse and now im practicing more python and laeraning ml more and studying sat math , french and math
+recently i have been more focusing on math only exactly algebra
+
