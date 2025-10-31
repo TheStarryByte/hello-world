@@ -16,7 +16,7 @@ im doing rn.
 i forgot to login
 for twooo days :(
 im in week one.
-c.
+c
 im on next week
 arrays.
 still on week two
