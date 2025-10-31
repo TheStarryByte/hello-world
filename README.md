@@ -10,7 +10,7 @@ im done with lesson three in python
 doing day one of the course
 week zero is basic and easy
 new word pixel images binary system 
-scartch week zero worksheet.
+scartch week zero worksheet
 im doing rn
 ...................
 i forgot to login
