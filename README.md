@@ -100,3 +100,4 @@ im almost done with data sceicse video
 i finised te data couse and now im practicing more python and laeraning ml more and studying sat math , french and math
 recently i have been more focusing on math only exactly algebra
 i need to focus on ai ml and french again more
+recntly i have been busy only studying mayh for now 
