@@ -101,3 +101,4 @@ i finised te data couse and now im practicing more python and laeraning ml more 
 recently i have been more focusing on math only exactly algebra
 i need to focus on ai ml and french again more
 recntly i have been busy only studying mayh for now 
+not really busy but i will be coming bsck to sc and ai
